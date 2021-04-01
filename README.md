@@ -1,4 +1,4 @@
-#  News Headlines Stock-Sentiment-Analysis-
+#  Stock-Sentiment-Analysis-
 using News Headlines Machine Learning
 
 KAggle link to the dataset-
